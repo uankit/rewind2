@@ -3,7 +3,7 @@ function onSubmit() {
     console.log(caseStory);
     if (caseStory == "101") {
         alert("Best of luck")
-        window.location = "/case1.html"
+        window.location('https://uankit.github.io/rewind2/case1.pdf');
         return false
     } else if (caseStory == "202") {
         alert("Best of luck")
